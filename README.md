@@ -36,6 +36,8 @@ https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/4bf31b22-b0de-
 
 # Technologies Used
 - Azure(For Hosting)
+- Azure health bot
+- Azure health data services
 - HTML
 - CSS
 - Bootstrap
