@@ -63,13 +63,28 @@ https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/4bf31b22-b0de-
 - Azure Bot Service
 
 ## Deployment
-![Resource group](https://github.com/aniketandhale08/Lifeline/assets/99685171/b71570b3-489f-4a7b-ab34-3aca9ec1c0b1)
-![Static web](https://github.com/aniketandhale08/Lifeline/assets/99685171/8a185496-af31-46d1-b7f2-64bcdc10bb82)
-![Web app deployment](https://github.com/aniketandhale08/Lifeline/assets/99685171/d0d40c40-29ad-4701-a6d7-5f05f5612a4d)
-![Azure bot](https://github.com/aniketandhale08/Lifeline/assets/99685171/e4b567c6-af1c-4fe6-9947-15d954a032c2)
-![Bot Chat](https://github.com/aniketandhale08/Lifeline/assets/99685171/78929ddf-f035-41b4-8da4-f94c28f8c7c8)
-![virtual network](https://github.com/aniketandhale08/Lifeline/assets/99685171/a3f0a962-01b3-4a16-b94d-e6b1aee6c273)
-![firewall](https://github.com/aniketandhale08/Lifeline/assets/99685171/b2fdfacf-3318-495c-91b0-351e1bc6a9f5)
+
+- Resource group
+  ![image](https://github.com/RohantNarang/FRT-INTERNSHIP/assets/89689441/611b6075-31a0-435b-a0c4-742fff9258e8)
+
+- Static web
+  ![image](https://github.com/RohantNarang/FRT-INTERNSHIP/assets/89689441/776b53c9-4f07-495c-9093-621b347b0a95)
+
+- Web app deployment
+  ![image](https://github.com/RohantNarang/FRT-INTERNSHIP/assets/89689441/bf760954-ac21-4ed2-9ef1-e88c3a4f5855)
+
+- Azure bot
+  ![image](https://github.com/RohantNarang/FRT-INTERNSHIP/assets/89689441/b2949cb1-98ef-4d48-b502-44afecffe872)
+
+- Bot Chat
+  ![image](https://github.com/RohantNarang/FRT-INTERNSHIP/assets/89689441/5d273752-3154-406a-8f28-c037fce613e2)
+
+- virtual network
+  ![image](https://github.com/RohantNarang/FRT-INTERNSHIP/assets/89689441/7cf36052-95a6-4c85-a2a7-74919de1f326)
+
+- firewall
+  ![image](https://github.com/RohantNarang/FRT-INTERNSHIP/assets/89689441/f27db5a5-276a-4948-a16f-5158f5c58d0f)
+
 
 
 
