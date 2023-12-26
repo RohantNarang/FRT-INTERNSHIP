@@ -43,3 +43,46 @@ https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/4bf31b22-b0de-
 - Bootstrap
 - JavaScript
 - jquery
+
+-
+
+## Features
+
+- **Home Page:** Intuitive landing page providing a quick overview of Lifeline Hospital.
+- **Services Tab:** Detailed information about the hospital's services and specialities.
+- **Contact Tab:** Easy access to contact information and location details.
+- **About Tab:** Insights into the hospital's history, mission, and values.
+- **Bot Integration:** An intelligent bot powered by Azure Bot Service to answer user queries.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Azure Cloud (for deployment)
+- Azure Bot Service
+
+## Deployment
+![Resource group](https://github.com/aniketandhale08/Lifeline/assets/99685171/b71570b3-489f-4a7b-ab34-3aca9ec1c0b1)
+![Static web](https://github.com/aniketandhale08/Lifeline/assets/99685171/8a185496-af31-46d1-b7f2-64bcdc10bb82)
+![Web app deployment](https://github.com/aniketandhale08/Lifeline/assets/99685171/d0d40c40-29ad-4701-a6d7-5f05f5612a4d)
+![Azure bot](https://github.com/aniketandhale08/Lifeline/assets/99685171/e4b567c6-af1c-4fe6-9947-15d954a032c2)
+![Bot Chat](https://github.com/aniketandhale08/Lifeline/assets/99685171/78929ddf-f035-41b4-8da4-f94c28f8c7c8)
+![virtual network](https://github.com/aniketandhale08/Lifeline/assets/99685171/a3f0a962-01b3-4a16-b94d-e6b1aee6c273)
+![firewall](https://github.com/aniketandhale08/Lifeline/assets/99685171/b2fdfacf-3318-495c-91b0-351e1bc6a9f5)
+
+
+
+## Future Enhancements
+
+This project is part of the Future Ready Talent internship, and potential future enhancements may involve implementing personalized user profiles, 
+expanding the bot's capabilities to cover additional medical topics, and integrating a patient portal for streamlined healthcare management.
+
+## Contribution Guidelines
+
+Contributions are welcome! If you have ideas for improvements or find any issues, please open an issue or submit a pull request.
+
+## Acknowledgments
+
+Thank you for visiting Lifeline Hospital's GitHub repository! We hope this project reflects our commitment to excellence in healthcare.
+
