@@ -2,13 +2,37 @@
 
 Therapeutic is a comprehensive healthcare website that offers specialized medical services in the fields of Cardiology, Ophthalmology, Neurology, Psychology, and Dermatology. The project's core idea is to provide accessible and patient-centric healthcare solutions, addressing the existing challenges of long waiting times, limited access to expert care, and a lack of personalized treatment options.
 
-# Key Features:  (Azure Services Overview: Explore the Azure services utilized in this project, including App Service, Static Web App, Storage Service, Q&A Service, and Virtual Network. Learn how each service contributes to the scalability, reliability, and security of the application.)
+# Key Features: 
 
 * User-friendly interface for easy navigation through departments.
 * Online appointment booking for timely access to healthcare services.
 * Embedded health bot for preliminary health information and guidance.
 * Access to highly skilled professionals and advanced medical technology.
 * Proactive health education and preventive care resources.
+
+
+# Azure Services Overview
+ 
+App Service:
+* Overview: Azure App Service is a fully managed platform for building, deploying, and scaling web apps. It supports multiple programming languages and frameworks.
+Contribution: In this project, App Service is utilized for hosting the main application, providing a scalable and managed environment. It ensures the application is easily deployable and can handle varying levels of traffic.
+
+Static Web App:
+* Overview: Azure Static Web Apps is a service that automatically builds and deploys full-stack web apps to Azure from a code repository.
+Contribution: Static Web App is used to host static content of the application, such as HTML, CSS, and client-side JavaScript. It enhances reliability by automating the deployment process and enabling quick updates.
+
+ Storage Service:
+* Overview: Azure Storage Services include different storage options such as Blob Storage, Table Storage, Queue Storage, and File Storage.
+Contribution: Blob Storage, for instance, can be used to store and retrieve large amounts of unstructured data, providing a scalable and durable solution for data storage. This enhances the reliability and scalability of the application by offloading storage responsibilities to a dedicated service.
+
+Q&A Service:
+* Overview: Azure QnA Maker is a cognitive service that allows the creation of a question and answer layer over your data.
+Contribution: Q&A Service is employed to enhance the application's functionality, providing a natural language interface for users. This service contributes to the scalability by handling user queries effectively and improves the user experience by providing quick and accurate responses.
+
+ Virtual Network:
+* Overview: Azure Virtual Network enables the creation of private, isolated networks in the Azure cloud.
+Contribution: Virtual Network is crucial for securing the application by isolating resources and controlling inbound and outbound traffic. It enhances security by allowing the definition of network boundaries and controls, preventing unauthorized access. Additionally, it contributes to reliability by providing a dedicated and controlled network environment for the application components.
+In summary, the combination of Azure services in this project leverages the strengths of each service to contribute to the scalability, reliability, and security of the overall application. App Service and Static Web App handle application hosting and deployment, Storage Service manages data storage, Q&A Service enriches user interactions, and Virtual Network ensures a secure and controlled network environment.
 
  By this project we wants to bridge the gap between patients and specialized treatment by allowing users to make educated health decisions. Therapeutic helps to greater well-being and a higher quality of life by providing a seamless experience and competent medical attention.
 
@@ -63,6 +87,23 @@ https://github.com/harshavardhan-b20/FRT_Project/assets/113964278/4bf31b22-b0de-
 - Azure Bot Service
 
 ## Deployment
+Let's discuss how each Azure service mentioned earlier was deployed in the context of this project:
+
+App Service:
+* Deployment: The application code, along with its dependencies, is packaged and deployed to Azure App Service. This deployment can be achieved using various methods such as Git-based deployments, continuous integration/continuous deployment (CI/CD) pipelines, or directly through the Azure Portal.
+
+Static Web App:
+* Deployment: Azure Static Web Apps simplifies the deployment process. The application code, typically stored in a code repository (e.g., GitHub), is linked to Azure Static Web Apps. Changes to the code trigger an automatic build and deployment process, updating the static content on the Azure infrastructure.
+
+Storage Service:
+* Deployment: Azure Storage Services, such as Blob Storage, can be provisioned and configured through the Azure Portal or via Infrastructure as Code (IaC) tools like Azure Resource Manager (ARM) templates or Terraform. The application code is then modified to interact with the specific storage services, and the updated code is deployed to the App Service.
+
+Q&A Service:
+* Deployment: The QnA Maker service is configured by creating a knowledge base that contains questions and answers related to the application. This knowledge base can be built and trained through the QnA Maker portal. The QnA Maker endpoint and key are integrated into the application code, allowing the application to interact with the Q&A service.
+
+Virtual Network:
+* Deployment: Azure Virtual Network is typically set up and configured using the Azure Portal, Azure CLI, or templates like ARM templates. Resources such as App Service and other components are then connected to this virtual network, ensuring that they communicate securely within the defined network boundaries.
+The deployment process for each service may involve a combination of manual configuration through the Azure Portal and automated processes using CI/CD pipelines or IaC tools. The goal is to establish a consistent and repeatable deployment process that ensures the application's components are deployed and configured correctly in the Azure environment.
 
 - Resource group
   ![image](https://github.com/RohantNarang/FRT-INTERNSHIP/assets/89689441/611b6075-31a0-435b-a0c4-742fff9258e8)
