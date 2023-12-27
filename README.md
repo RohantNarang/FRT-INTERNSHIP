@@ -2,7 +2,7 @@
 
 Therapeutic is a comprehensive healthcare website that offers specialized medical services in the fields of Cardiology, Ophthalmology, Neurology, Psychology, and Dermatology. The project's core idea is to provide accessible and patient-centric healthcare solutions, addressing the existing challenges of long waiting times, limited access to expert care, and a lack of personalized treatment options.
 
-# Key Features:
+# Key Features:  (Azure Services Overview: Explore the Azure services utilized in this project, including App Service, Static Web App, Storage Service, Q&A Service, and Virtual Network. Learn how each service contributes to the scalability, reliability, and security of the application.)
 
 * User-friendly interface for easy navigation through departments.
 * Online appointment booking for timely access to healthcare services.
